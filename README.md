@@ -1,4 +1,3 @@
-### Hi there, I'm TJ. 👋🏽
-
+### Hi there, I'm TJ. 🤙🏽
 
 
