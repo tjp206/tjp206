@@ -1,3 +1,3 @@
 # Hi there, I'm TJ. 😬🏴󠁧󠁢󠁳󠁣󠁴󠁿🇺🇲
 
-Feed me pizza. 🍕
+Lets go for pizza! 🍕
