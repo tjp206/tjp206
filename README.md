@@ -19,5 +19,6 @@
   <a href="https://www.linkedin.com/in/tjp206/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   <a href="https://twitter.com/codename_tj">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-### P.S:
-Remember, debugging is like being the detective in a crime movie, except the crime scene is your code, and you're the culprit. 👀
+    
+    
+#### And remember, debugging is like being the detective in a crime movie, except the crime scene is your code, and you're the culprit. 👀
