@@ -1,5 +1,5 @@
 # 👋🏽 Hello, my name is TJ! 
-- A software developer with 3 years of experience in Java, Spring Boot, JavaScript, jQuery, PL/SQL, Git, Full Stack Development and now delving into the exciting world of Machine Learning.
+- A software developer with 3 years of experience in Java, Spring Boot, JavaScript, jQuery, PL/SQL, Git and Full Stack Development.
 
 ### What I currently do:
 - I work full time as a software developer in the public sector 💻
